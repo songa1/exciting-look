@@ -168,3 +168,7 @@ footer {
   form input:active, form textarea:active {
     border-bottom: 2px solid rgb(148, 148, 10);
   }
+
+  strong {
+      color: rgb(148, 148, 10);
+  }
